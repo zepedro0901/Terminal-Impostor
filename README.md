@@ -1,5 +1,3 @@
-# Terminal-Impostor
-
 # The Impostor
 
 A multiplayer social-deduction game played entirely in the terminal. Built in Java with raw sockets and multithreading. No framework, no GUI, just a server and players connected over TCP.
